@@ -47,7 +47,7 @@ An Employee Management System (EMS) built with Next.js, TypeScript, and MongoDB.
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/RohanDas28/ems.git
+    git clone https://github.com/RohanDas28/Employee-Management-System.git
     cd ems
     ```
 
